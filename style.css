@@ -50,7 +50,6 @@ nav {
 .article-image {
   max-width: 35%;   
   height: auto;      
-  display: block;
 }
 header {
   border-bottom: 2px solid #a00000
