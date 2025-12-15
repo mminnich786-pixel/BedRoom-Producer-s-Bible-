@@ -47,6 +47,12 @@ nav {
   display: block;
 }
 
+.article-image {
+  max-width: 100%;   
+  height: auto;      
+  display: block;
+  margin: 0 auto 20px; 
+}
 header {
   border-bottom: 2px solid #a00000
 }
