@@ -52,16 +52,12 @@ nav {
   height: auto;      
 }
 .review-image {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
-  display: block;
-  margin: 20px auto;
-  border-radius: 8px;
 }
 .review-article {
-  max-width: 800px;
-  margin: 0 auto;
-  line-height: 1.6;
+  max-width: 50%;
+  height: auto;
 }
 header {
   border-bottom: 2px solid #a00000
