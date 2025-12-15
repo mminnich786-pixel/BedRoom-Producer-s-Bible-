@@ -58,6 +58,11 @@ nav {
   margin: 20px auto;
   border-radius: 8px;
 }
+.review-article {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
 header {
   border-bottom: 2px solid #a00000
 }
