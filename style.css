@@ -155,8 +155,24 @@ header {
   background-color: var(--accent-color);
   color: var(--bg-color);
 }
-
-
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+thead th {
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+  padding: 10px;
+  text-align: left;
+}
+tbody td {
+  padding: 10px;
+  border-bottom: 1px soild #ccc;
+}
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
 footer {
   border-top: var(--border);
   padding: 20px;
